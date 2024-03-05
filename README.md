@@ -1,3 +1,8 @@
-# (WIP) A new fork of Yuzu and Citra is being worked on
+Continuation of yuzu;
+https://gitlab.com/suyu2/suyu
+ 
 
-**For now this repo will contain compiled and safe binaries of both Citra and Yuzu but we may expand on the future**
+Continuation of Citra:
+https://github.com/RyzenDew/Lime-3DS-Emulator
+
+keep in mind these are just forks , dont expect them to move at the same rate as the main projects did
